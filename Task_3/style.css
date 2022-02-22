@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+p{
+    display: inline-block;
+    font-size: 70px;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.clocks{
+    display: flex;
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 10px;
+}
